@@ -1,0 +1,19 @@
+{
+  "name": "low brain cat #2",
+  "description": "The cat looks like an idiot :)",
+  "image": "https://ipfs.io/ipfs/Qmf5xR2KmvYaRP58tKatNAxHuEDXabuyGdmEawzRqYCHQT",
+  "attributes": [
+    {
+      "trait_types": "Face",
+      "value": "Blue"
+    },
+    {
+      "trait_types": "Eyes",
+      "value": "Smile"
+    },
+    {
+      "trait_types": "Mouth",
+      "value": "Smile"
+    }
+  ]
+}
